@@ -2,6 +2,11 @@
 
 A simple Azure Function example.
 
+### Login
+```
+az login
+```
+
 ### Create a resource group
 ```
 az group create --name apollo3-example --location centralus
