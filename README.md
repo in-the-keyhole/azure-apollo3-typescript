@@ -2,6 +2,11 @@
 
 A simple Azure Function example.
 
+### Run it locally
+```
+yarn run dev
+```
+
 ### Login
 ```
 az login
